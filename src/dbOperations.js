@@ -8,7 +8,7 @@ var ObjectId = require('mongodb').ObjectID;
 // Setting up a MongoDB connection
 const init = () => {
     return new Promise((resolve, reject) => {
-        MongoClient.connect('mongodb://127.0.0.1:27017',
+        MongoClient.connect('mongodb+srv://heroku:),&V:*3b%HVjbrV@cluster0-oaxv5.mongodb.net/test?retryWrites=true&w=majority',
             (err, client) => {
                 if (err) {
                     console.log("failed to connect to MongoDB");
