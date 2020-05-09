@@ -5,7 +5,7 @@ dbManager.dbInit();
 
 const server = new Hapi.Server({
     "host": "localhost",
-    "port": 3000
+    "port": 3000 || process.env.PORT
 });
 
 // Starts server
