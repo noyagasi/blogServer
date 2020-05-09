@@ -21,7 +21,5 @@
     "kerberos": "~0.0.17",
     "mongodb": "^2.2.36"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  }
+  "devDependencies": {}
 }
