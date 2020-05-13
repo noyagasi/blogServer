@@ -1,10 +1,10 @@
-# blogServer
-server side of my blog app
+# Blog Server
 
-# Register and Login: 
+Hapi-based server that provides forum user API and post API. It stores information in MongoDB and performs JWT authentication. 
 
-![](/project.gif)
+## Blog Website
+https://noyag.herokuapp.com/
 
-# Home, Adding Posts (remove and edit)
-
-![](/project2.gif)
+## Functionality
+1. User can Register and Sign in
+2. User can CRUD posts (Create, Read, Update and Delete)
