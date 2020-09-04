@@ -19,7 +19,7 @@
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
     "kerberos": "~0.0.17",
-    "mongodb": "^2.2.36"
+    "mongodb": "^3.1.13"
   },
   "devDependencies": {}
 }
