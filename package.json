@@ -18,7 +18,7 @@
     "jade": "^1.11.0",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
-    "kerberos": "~0.0.17",
+    "kerberos": "~1.0.0",
     "mongodb": "^2.2.36"
   },
   "devDependencies": {}
